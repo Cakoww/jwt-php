@@ -1,4 +1,4 @@
-to run it from localhost you have to run the followinf comMand 
+to run it from localhost you have to run the following command 
 
 php -S 127.0.0.1:8080
 
